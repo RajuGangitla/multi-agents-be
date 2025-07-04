@@ -2,3 +2,5 @@ langchain
 fastapi
 uvicorn
 langgraph
+langchain-google-genai
+langchain-openai
